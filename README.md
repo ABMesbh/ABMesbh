@@ -1,4 +1,4 @@
-## Hi, I'm Abderahmane Mesbah, a Data Engineering enthusiast 👋
+## Hi 👋, I'm Abderahmane Mesbah, a Data Engineering enthusiast 
  
 ### 🏫 I am currently a second year Data Engineering/Science Student at the National Institute of Posts and Telecommunications (INPT), Morocco.
 <!--
