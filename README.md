@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Abderahmane Mesbah, a Data Engineering enthusiast 
+
+
  
 ### 🏫 I am currently a fourth year Computer Science student at Polytech Grenoble 
-
 ### 🌱 I’m currently learning Data Engineering fundemantal concepts and tools 
-
 ### 🔭 I’m looking for an internship where I can apply learn and deepen my skills
 
 <!--
