@@ -1,6 +1,11 @@
 ## Hi 👋, I'm Abderahmane Mesbah, a Data Engineering enthusiast 
  
-### 🏫 I am currently a second year Data Engineering/Science Student at the National Institute of Posts and Telecommunications (INPT), Morocco.
+### 🏫 I am currently a fourth year Computer Science student at Polytech Grenoble 
+
+###🌱 I’m currently learning Data Engineering fundemantal concepts and tools 
+
+### 🔭 I’m looking for an internship where I can apply learn and deepen my skills
+
 <!--
 **ABMesbh/ABMesbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
