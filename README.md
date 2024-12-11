@@ -2,9 +2,9 @@
 
 
  
-### 🏫 I am currently a Computer Science student at Polytech Grenoble 
-### 🌱 I’m currently learning Data Engineering fundemantal concepts and tools 
-### 🔭 I’m looking for an internship where I can apply learn and deepen my skills
+### 🏫 I am currently a Computer Science student in Polytech Grenoble 
+### 🌱 I'm currently learning Data Engineering fundamentals concepts and tools 
+### 🔭 I'm looking for an internship where I can apply learn and deepen my skills
 
 <!--
 **ABMesbh/ABMesbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
